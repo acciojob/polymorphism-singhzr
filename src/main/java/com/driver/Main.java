@@ -32,7 +32,7 @@ public class Main {
         double ans3 = p.product(10.0 , 20.0);
         System.out.println(ans3);
 
-
+/////////////////////////////
     }
 
 }
